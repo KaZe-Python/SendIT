@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "SendIT",
+    "slug": "SendIT",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "SendIT"
+}
